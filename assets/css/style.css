@@ -1158,5 +1158,21 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     }
 }
 
+.skill-set {
+    padding: 1rem 4rem;
+  	border-radius: 0.5rem;
+  	border: 1px solid;
+  	/*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+  	 /*color: hsl(257, 40%, 49%); */
+  	color: #4287F5;
+  	font-weight: 500;
+  	/*cursor: pointer;*/
+  	margin-top: 1.25rem;
+}
+
+.skill-set span {
+	color: #636a82;
+}
+
 
 /*========================Thank you=================
